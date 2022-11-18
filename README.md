@@ -5,7 +5,7 @@ This analysis uses publicly available CitiBike data from August 2019 to examine 
 the starting and stopping times and locations for each ride, and user data. The user data includes age and gender of user, as well as whether they are a CitiBike 
 subscriber or a more casual customer. For this analysis, we focused on starting times, trip duration, user gender and user type.
 
-We used Tableau to illustrate some of the insights derived from these data points.
+We used [Tableau](https://public.tableau.com/app/profile/katie.darden3235/viz/NYC_CitiBike_story_Aug2019/CitiBike_story) to illustrate some of the insights derived from these data points.
 
 ## Results
 Our analysis shows that most CitiBike trips are very short, typically lasting less than 20 minutes, with roughly 5 minutes being the most common trip duration.
